@@ -75,6 +75,7 @@ A healthcare management system designed to connect patients,
 doctors and administrators through a role-based platform.
 
 **Key features:**
+
 - 👨‍⚕️ Doctor and patient management
 - 📅 Appointment management
 - 🩺 Consultation management
@@ -95,6 +96,7 @@ A web-based school admission management system with separate
 interfaces for students, teachers and principals.
 
 **Key features:**
+
 - 👨‍🎓 Student admission
 - 👩‍🏫 Teacher review
 - 👨‍💼 Principal approval
@@ -113,6 +115,7 @@ A smart resource management concept designed to connect farmers
 with available agricultural resources and equipment.
 
 **Planned features:**
+
 - 👨‍🌾 Farmer registration
 - 📍 Location-based resources
 - 🚜 Equipment availability
@@ -120,22 +123,6 @@ with available agricultural resources and equipment.
 - 💰 Cost comparison
 - ⚠️ Disruption handling
 - 📊 Resource criticality scoring
-
-🔗 **Repository:** Coming soon
-
----
-
-### 🔐 Cyber Awareness & Gamified Learning
-
-A cybersecurity awareness project focused on learning through
-interactive games and quizzes.
-
-**Planned features:**
-- 🛡️ Cybersecurity awareness
-- 🎮 Gamified learning
-- 🧠 Cybersecurity quiz
-- 🔗 URL / malware awareness
-- 🎯 Interactive learning activities
 
 🔗 **Repository:** Coming soon
 
