@@ -2,12 +2,12 @@
 
 ### 🎓 BE Computer Science Engineering Student | 💻 Aspiring Software Developer
 
-I am a Computer Science Engineering student who enjoys building practical projects
-and learning new technologies through hands-on development.
+I am a Computer Science Engineering student interested in building
+practical software applications and learning new technologies through
+hands-on projects.
 
-🌱 Currently learning Web Development, Backend Development, Python, Machine Learning and NLP.
-
-🚀 I enjoy working on challenging projects and turning ideas into functional applications.
+🌱 Currently learning Web Development, Backend Development, Python,
+Machine Learning and Natural Language Processing.
 
 ---
 
@@ -15,8 +15,8 @@ and learning new technologies through hands-on development.
 
 - 🎓 BE Computer Science Engineering Student
 - 💻 Interested in Web Development and Software Development
-- 🌱 Currently learning Backend Development and Machine Learning
-- 🐍 Learning Python for Data Science and ML
+- 🌱 Currently learning Backend Development
+- 🐍 Learning Python and Machine Learning
 - 🗄️ Working with MySQL databases
 - 🔧 Using Git and GitHub for project development
 - 🧠 Exploring Natural Language Processing (NLP)
@@ -67,95 +67,39 @@ and learning new technologies through hands-on development.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🏥 Integrated Patient Care Management System
 
-A healthcare management system designed to connect patients,
-doctors and administrators through a role-based platform.
+An integrated healthcare management system designed to connect
+patients, doctors and administrators through a secure,
+role-based platform.
 
-**Key features:**
-- 👨‍⚕️ Doctor and patient management
+### 🔹 Key Features
+
+- 👨‍⚕️ Doctor management
+- 👤 Patient management
 - 📅 Appointment management
 - 🩺 Consultation management
-- 💊 Prescription management
-- 🔐 Role-based access
+- 💊 Digital prescription management
+- 🔐 Role-based access control
 - 🛏️ Bed management
 - 💰 Billing management
+- 🚑 Emergency care
+- 📋 Medical history
 - 📊 Analytics and reporting
 
-🔗 **Repository:**  
-https://github.com/harshita-pagad/integrated-patient-care-management
-
----
-
-### 🏫 School Admission Portal
-
-A web-based school admission management system with separate
-interfaces for students, teachers and principals.
-
-**Key features:**
-- 👨‍🎓 Student admission
-- 👩‍🏫 Teacher review
-- 👨‍💼 Principal approval
-- 📋 Application status tracking
-- 🗄️ MySQL database
-- 🔐 Role-based access
-- 📄 Document management
-
-🔗 **Repository:** Coming soon
-
----
-
-### 🌾 FarmGrid
-
-A smart resource management concept designed to connect farmers
-with available agricultural resources and equipment.
-
-**Planned features:**
-- 👨‍🌾 Farmer registration
-- 📍 Location-based resources
-- 🚜 Equipment availability
-- 📅 Resource booking
-- 💰 Cost comparison
-- ⚠️ Disruption handling
-- 📊 Resource criticality scoring
-
-🔗 **Repository:** Coming soon
-
----
-
-### 🔐 Cyber Awareness & Gamified Learning
-
-A cybersecurity awareness project focused on learning through
-interactive games and quizzes.
-
-**Planned features:**
-- 🛡️ Cybersecurity awareness
-- 🎮 Gamified learning
-- 🧠 Cybersecurity quiz
-- 🔗 URL / malware awareness
-- 🎯 Interactive learning activities
-
-🔗 **Repository:** Coming soon
-
----
-
-## 📚 Currently Learning
+### 🔹 Main Modules
 
 ```text
-Web Development
+Patient Management
        ↓
-JavaScript
+Appointment Management
        ↓
-Node.js + Express.js
+Consultation
        ↓
-REST APIs
+Prescription
        ↓
-MySQL
+Billing & Discharge
        ↓
-Python
-       ↓
-Machine Learning
-       ↓
-Natural Language Processing
+Analytics & Reporting
